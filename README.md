@@ -28,7 +28,7 @@ This program combines four input images into a 2x2 grid and saves the result as 
 
 1. **Run the Program**:
    - Open a terminal or command prompt.
-   - Navigate to the directory where the program file (`image_collage.py`) is saved.
+   - Navigate to the directory where the program file (`CreateCollageImage.py.py`) is saved.
    - Run the program by typing:
      ```bash
      python image_collage.py
@@ -74,3 +74,8 @@ This program combines four input images into a 2x2 grid and saves the result as 
 2. Verify that:
    - The collage is created with all images resized correctly.
    - The output file can be opened without errors.
+
+
+## **Output Image**
+
+![collage](https://github.com/user-attachments/assets/28a65403-6fdb-42d7-a5d9-1982d465ebd0)
